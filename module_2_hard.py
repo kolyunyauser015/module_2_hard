@@ -1,4 +1,4 @@
-n = int(input('Ввведите число из первого поля '))
+n = int(input('Введите число из первого поля '))
 dividers_list = []
 divider = 2
 while divider <= n:
